@@ -13,7 +13,7 @@ Intell-Health not only provides patients with a better understanding of their he
 
 
 ## Authors
-
+- [@Bellatrix24](https://www.github.com/Bellatrix24)
 - [@XplosivePotato](https://www.github.com/XplosivePotato)
 
 - ## Update
